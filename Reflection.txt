@@ -1,5 +1,4 @@
-This is an example file for reflection in IBI1_2023-24.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I have also learnt to write careful instructions when communicating online!
+During this course, I have learnt version control and how to use version control. 
+I have made myself angry because the code was always wrong. 
+From this course, I've learnt that I should be patient and careful to find errors in my code. 
+And before moving my changes to GitHub, I should check my branch carefully. =(
