@@ -1,5 +1,5 @@
 Hello. 
-My name is Rob.
-I like drinking tea and eating chocolate biscuits.
-I am enjoying teaching IBI1 in person again 
-I am happy that I can push my repo from Visual Studio Code to GitHub
+My name is Nie Xinmiao.
+I like drinking juice and eating hot pot.
+I am happy to meet you. 
+I am happy that I can learn about GitHub. 
