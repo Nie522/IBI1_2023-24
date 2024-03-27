@@ -2,7 +2,7 @@ The questions I want to answer are:
 1. How has the relationship between the DALYs in China and the UK changed over time? 
 2. Are they becoming more similar, less similar? 
 
-47 is the line number that answer these quetions. 
+58-72 is the line number that answer these quetions. 
 
 Answers: 
 1. The DALYs of China is always bigger than those of UK. But over time, the gap between the two has narrowed.

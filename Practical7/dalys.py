@@ -31,6 +31,14 @@ china_mean = np.mean(china_data.DALYs)
 #calculate the mean of DALYs in china_Data
 print("The mean of china DALYs is", china_mean)
 
+china_2019 = china_data.loc[1169, "DALYs"]
+if china_2019 == china_mean:
+    print("DALYs in 2019 is equal to the mean.")
+elif china_2019 > china_mean:
+    print("DALYs in 2019 is greater than the mean.")
+else:
+    print("DALYs in 2019 is below the mean.")
+
 plt.plot(china_data.Year, china_data.DALYs, 'g.')
 #draw the plot of years and DALYs
 #r, g, b, y, c, m, k are the symbols of color
