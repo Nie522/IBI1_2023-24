@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 #import a few python libraries
 
-#os.chdir("c:/Uses/Nie522/Downloads")
+#os.chdir("C:/Users/Nie522/Downloads")
 #to the directory in which the file was saved
 
 dalys_data = pd.read_csv("dalys-rate-from-all-causes.csv")
