@@ -1,0 +1,15 @@
+The resource of BLOSUM62 matrix can be found in:
+Henikoff, S., & Henikoff, J. G. (1992). Amino acid substitution matrices from protein blocks. Proceedings of the National Academy of Sciences, 89(22), 10915-10919.
+
+After executing the code, the results are: 
+The BLOSUM62 score for human-mouse sequence alignment is: 3137.0
+The BLOSUM62 score for human-rat sequence alignment is: 3107.0
+The BLOSUM62 score for mouse-rat sequence alignment is: 3261.0
+The higher the score is, the more similar the sequences are.
+
+3107.0 < 3137.0 < 3261.0
+
+So the conclusions are: 
+Mouse's sequence and rat's sequence are most closely related.
+Human's sequence is more closely related to mouse's than to rat's.
+Mouse is a better model	organism for human based on the data analysed here.

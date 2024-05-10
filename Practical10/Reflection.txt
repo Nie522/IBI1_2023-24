@@ -1,0 +1,6 @@
+In this practical, I faced a lot of challenges. 
+The basic SIR model was very good. I could understand the principle of SIR model.
+But the SIR model with vaccination always showed in mistake in my code. I couldn't find why it was wrong. 
+I found that the second line was alwasy in mistake. 
+That means, if I begin with 0%, the line of 10% will be wrong. If I begin with 10%, 20% will be wrong.
+That's very odd, and I cannot find any solution. :(
