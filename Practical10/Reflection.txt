@@ -5,3 +5,7 @@ I found that the second line was alwasy in mistake.
 That means, if I begin with 0%, the line of 10% will be wrong. If I begin with 10%, 20% will be wrong.
 That's very odd, and I cannot find any solution. :(
 So I wrote the whole code again and this time it ran well. 
+
+Another challenge is that I didn't know why after 'show' the image was good, but it couldn't be saved as a png file.
+Finally I found that in Matplotlib, the current drawing state is cleared each time plt.show() or plt.savefig() is called. 
+So I let plt.show() be a pseudocode, and the image was saved successfully. 

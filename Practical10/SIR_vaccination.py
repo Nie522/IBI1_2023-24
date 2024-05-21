@@ -47,7 +47,7 @@ for rate in vaccination_rates:
     arrays_i[rate] = infected_over_time
 
 # Plot the model results for each vaccination rate
-plt.figure(figsize=(8, 6), dpi=150)
+plt.figure(figsize=(6, 4), dpi=150)
 
 for rate, infected_series in arrays_i.items():
     # Use a colormap to differentiate the lines for each vaccination rate
@@ -57,7 +57,9 @@ plt.xlabel('Time')
 plt.ylabel('Number of Infected People')
 plt.title('SIR Model with Different Vaccination Rates')
 plt.legend()
-plt.show()
+
+# plt.show()
+# This command was not executed because the image will be emptied after 'show'
 
 # Save the plot as an image file
 plt.savefig("./SIR_model_vaccination.png")
